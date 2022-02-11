@@ -27,7 +27,7 @@ h1 {
     border: 1px solid black;
 }
 
-.message-container {
+#message {
     color: darkorange;
     font-size: 1.5em;
     font-weight: bold;
